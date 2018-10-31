@@ -1,0 +1,4 @@
+1. Downloads Folder (~/Downloads:recursive):
+
+2. Amazon Invoice (amazon/amazon_invoice):[invoice_date(yymmdd) |
+date_created(yymmdd)]_[title | length(3, 'back')].[ext | lowercase]
